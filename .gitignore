@@ -1,0 +1,38 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Generated ThreatIntel output
+reports/
+
+# Environment / secrets
+.env
+.env.*
+*.key
+*.pem
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# Test/cache files
+.pytest_cache/
+.coverage
+
+# Windows noise
+Thumbs.db
+Desktop.ini
+
+# Generated/local test data
+threatintel-test.json
+
+# Local development backups / migration helpers
+*.before_*
+wire_customer_assets.py
+wire_relevance.py
+reclassify_report.py

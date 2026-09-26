@@ -1,0 +1,213 @@
+{
+  "technologies": [
+    {
+      "name": "Fortinet",
+      "aliases": [
+        "Fortinet",
+        "FortiGate",
+        "FortiOS",
+        "FortiManager",
+        "FortiAnalyzer",
+        "FortiClient",
+        "FortiWeb",
+        "FortiProxy"
+      ]
+    },
+    {
+      "name": "Cisco",
+      "aliases": [
+        "Cisco",
+        "Cisco IOS",
+        "IOS XE",
+        "IOS XR",
+        "Cisco ASA",
+        "Cisco FTD",
+        "Firepower",
+        "Cisco Secure Firewall",
+        "Cisco ISE",
+        "Cisco Umbrella"
+      ]
+    },
+    {
+      "name": "SonicWall",
+      "aliases": [
+        "SonicWall",
+        "SonicOS",
+        "SMA",
+        "Secure Mobile Access"
+      ]
+    },
+    {
+      "name": "Veeam",
+      "aliases": [
+        "Veeam",
+        "Veeam Backup & Replication",
+        "Veeam ONE",
+        "Veeam Service Provider Console"
+      ]
+    },
+    {
+      "name": "Ivanti",
+      "aliases": [
+        "Ivanti",
+        "Ivanti Connect Secure",
+        "Ivanti Policy Secure",
+        "Ivanti Endpoint Manager",
+        "Ivanti EPMM",
+        "MobileIron"
+      ]
+    },
+    {
+      "name": "VMware",
+      "aliases": [
+        "VMware",
+        "VMware ESXi",
+        "ESXi",
+        "vCenter",
+        "vCenter Server",
+        "VMware Tools",
+        "VMware Workstation",
+        "VMware Fusion"
+      ]
+    },
+    {
+      "name": "Microsoft Hyper-V",
+      "aliases": [
+        "Hyper-V",
+        "Microsoft Hyper-V"
+      ]
+    },
+    {
+      "name": "AWS",
+      "aliases": [
+        "AWS",
+        "Amazon Web Services",
+        "Amazon EC2",
+        "EC2",
+        "Amazon S3",
+        "AWS IAM",
+        "Amazon EKS",
+        "Amazon ECS",
+        "AWS Lambda",
+        "Amazon RDS",
+        "CloudFront"
+      ]
+    },
+    {
+      "name": "Microsoft",
+      "aliases": [
+        "Microsoft",
+        "Windows",
+        "Windows 11",
+        "Windows Server",
+        "Microsoft 365",
+        "Office 365",
+        "Azure",
+        "Microsoft Azure",
+        "Microsoft Entra",
+        "Entra ID",
+        "Azure AD",
+        "Active Directory",
+        "Microsoft Exchange",
+        "Exchange Online"
+      ]
+    },
+    {
+      "name": "Microsoft Defender",
+      "aliases": [
+        "Microsoft Defender",
+        "Microsoft Defender XDR",
+        "Microsoft Defender for Endpoint",
+        "Defender for Endpoint",
+        "MDE"
+      ]
+    },
+    {
+      "name": "Mimecast",
+      "aliases": [
+        "Mimecast",
+        "Mimecast Email Security"
+      ]
+    },
+    {
+      "name": "Zscaler",
+      "aliases": [
+        "Zscaler",
+        "ZIA",
+        "Zscaler Internet Access",
+        "ZPA",
+        "Zscaler Private Access"
+      ]
+    },
+    {
+      "name": "Sophos",
+      "aliases": [
+        "Sophos",
+        "Sophos Firewall",
+        "Sophos XG",
+        "Sophos XGS",
+        "Sophos Endpoint",
+        "Sophos Central"
+      ]
+    },
+    {
+      "name": "CrowdStrike",
+      "aliases": [
+        "CrowdStrike",
+        "CrowdStrike Falcon",
+        "Falcon Sensor"
+      ]
+    },
+    {
+      "name": "Google Security Operations",
+      "aliases": [
+        "Google Security Operations",
+        "Google SecOps",
+        "Google Chronicle",
+        "Chronicle SIEM",
+        "Chronicle"
+      ]
+    },
+    {
+      "name": "Splunk",
+      "aliases": [
+        "Splunk",
+        "Splunk Enterprise",
+        "Splunk Enterprise Security",
+        "Splunk ES",
+        "Splunk Cloud"
+      ]
+    },
+    {
+      "name": "Darktrace",
+      "aliases": [
+        "Darktrace",
+        "Darktrace DETECT",
+        "Darktrace RESPOND"
+      ]
+    },
+    {
+      "name": "Qualys",
+      "aliases": [
+        "Qualys",
+        "Qualys VMDR",
+        "Qualys Cloud Platform"
+      ]
+    },
+    {
+      "name": "DMARCian",
+      "aliases": [
+        "DMARCian",
+        "dmarcian"
+      ]
+    },
+    {
+      "name": "Netskope",
+      "aliases": [
+        "Netskope",
+        "Netskope One",
+        "Netskope Private Access"
+      ]
+    }
+  ]
+}
